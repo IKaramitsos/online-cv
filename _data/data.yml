@@ -67,7 +67,6 @@ experiences:
             - Collaborated with the design team to implement new features and improve the overall user experience.
             - Assisted in the development of different websites using HTML, CSS, JavaScript and Angular Framework.
             - Worked on various features such as form validations, responsive design and accessibility.
-            - Worked on various features such as form validations, responsive design and accessibility.
 
 certifications:
       title: Certifications
@@ -106,7 +105,7 @@ projects:
     title: Projects
     assignments:
       - title: React Weather Application
-        link: "#IKaramitsos/ReactWeatherApp"
+        link: "ReactWeatherApp"
         tagline: "React Weather Application - Provides current weather data, 5 pre-set city forecasts, Celsius/Fahrenheit options,GPS-based local weather, and global city search functionality. It also provides a variety of weather statistics."
 
 skills:
